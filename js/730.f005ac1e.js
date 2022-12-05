@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkyun_admin"]=self["webpackChunkyun_admin"]||[]).push([[730],{8730:function(n,e,r){r.r(e),r.d(e,{default:function(){return d}});var l=r(3396),a=r(7139);const s={class:"hello"};function u(n,e,r,u,o,t){return(0,l.wg)(),(0,l.iD)("div",s,[(0,l._)("h1",null,(0,a.zw)(r.msg??"Hello World"),1)])}var o={name:"HelloWorld",props:{msg:String}},t=r(89);const c=(0,t.Z)(o,[["render",u],["__scopeId","data-v-fc7ab780"]]);var d=c}}]);
+//# sourceMappingURL=730.f005ac1e.js.map

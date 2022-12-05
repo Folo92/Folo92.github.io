@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkyun_admin"]=self["webpackChunkyun_admin"]||[]).push([[483],{5483:function(n,e,t){t.r(e),t.d(e,{default:function(){return c}});var o={name:"AuthRedirect",created(){const n=window.location.search.slice(1);window.localStorage&&(window.localStorage.setItem("x-admin-oauth-code",n),window.close())},render:function(n){return n()}};const a=o;var c=a}}]);
+//# sourceMappingURL=483.d5f28b9f.js.map
